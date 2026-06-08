@@ -5,3 +5,6 @@ venv/
 env/
 .ipynb_checkpoints/
 .DS_Store
+
+# Données brutes (trop volumineuses, non requises par l'app)
+autos.csv
